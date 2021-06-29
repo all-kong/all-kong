@@ -11,10 +11,10 @@
 ### 📚 Study
 `C` `Python` `C#` `Java` `CSS` `JavaScript`
 
-### Blog
+### 📄 Blog
 https://velog.io/@allkong
 
-### E-mail
+### 📮 E-mail
 b00n0ng@naver.com
 
 ***
