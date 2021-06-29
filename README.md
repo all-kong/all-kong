@@ -10,7 +10,7 @@
 
 ### 📚 Study
 `C` `Python` <br/>
-`C#` `Java` `CSS` `JavaScript`
+`C#` `Java`
 
 ### 📄 Blog
 https://velog.io/@allkong
