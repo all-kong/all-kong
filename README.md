@@ -9,7 +9,8 @@
 - `2021` 한이음 ICT멘토링 - 택배 물류 자동 분류 시스템 (진행중)
 
 ### 📚 Study
-`C` `Python` `C#` `Java` `CSS` `JavaScript`
+`C` `Python` <br/>
+`C#` `Java` `CSS` `JavaScript`
 
 ### 📄 Blog
 https://velog.io/@allkong
