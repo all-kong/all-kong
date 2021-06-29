@@ -1,5 +1,5 @@
-## Hi there, I'm Dabin Jeong! 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcbcb&height=300&section=header&text=all%20kong&fontSize=90)
+## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcbcb&height=300&section=header&text=Dabin%20Jeong&fontSize=90)
 
 ### 🎓 Education
 - `2020` 성결대학교 컴퓨터공학과 입학
