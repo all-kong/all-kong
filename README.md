@@ -8,7 +8,7 @@
 `C` `Python` `CSS`
 
 ### 📄 Blog
-https://velog.io/@allkong
+https://allkong.tistory.com/
 
 ### 📮 E-mail
 b00n0ng@naver.com
