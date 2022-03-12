@@ -11,7 +11,7 @@
 https://allkong.tistory.com/
 
 ### 📮 E-mail
-b00n0ng@naver.com
+allempti@gmail.com
 
 ***
 
