@@ -5,7 +5,7 @@
 - `2020` 성결대학교 컴퓨터공학과 입학
 
 ### 📚 Study
-`C` `Python` `CSS`
+`Python` `html` `javascript`
 
 ### 📄 Blog
 https://allkong.tistory.com/
