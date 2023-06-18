@@ -1,8 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffcbcb&height=300&section=header&text=Dabin%20Jeong&fontSize=50&fontColor=fffee7)
-
-### 📚 Study
-`Python` `html` `javascript`
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffcbcb&height=200&section=header&text=Dabin%20Jeong&fontSize=40&fontColor=fffee7)
 
 ### 📄 Blog
 https://allkong.tistory.com/
