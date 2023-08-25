@@ -2,7 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffcbcb&height=200&section=header&text=Dabin%20Jeong&fontSize=40&fontColor=fffee7)
 
 ### 📄 Blog
-https://allkong.tistory.com/
+[Tistory](https://allkong.tistory.com/)
+
+[Notion - Algorithm](https://allkong.notion.site/Algorithm-192c32c8250b44db9ea4128414b82dd8?pvs=4])
 
 ### 📮 E-mail
 allempti@gmail.com
